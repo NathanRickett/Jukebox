@@ -1,4 +1,4 @@
-#!/home/jukebox/jukebox_app/env/bin/python3
+#!/home/jukebox/Jukebox/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
